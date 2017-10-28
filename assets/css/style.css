@@ -2,10 +2,6 @@
 	box-sizing: border-box;
 }
 
-html {
-	margin-left: calc(100vw - 100%); 
-}
-
 body {
 	background-image: url("../concrete-texture/concrete-texture.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
